@@ -1,0 +1,66 @@
+*{margin: 0%;} /*tamanho da margim*/
+
+.cabeçario {
+    background-image: url("https://st3.depositphotos.com/29384342/33652/i/450/depositphotos_336529694-stock-photo-blue-black-frame-soft-color.jpg"); /*repetir imagem varias vezes*/   
+    background-size: contain;
+    color: rgb(255, 255, 255); /*cor da letra*/
+    display: flex; /* ficar na frente*/
+    justify-content: space-between;
+    text-shadow: rgb(4, 205, 255) 1px 0 10px; /*cor em volta da letra*/
+}
+
+body {
+    background-color: black; /*cor do fundo*/
+    font-family: 'Courier New', Courier, monospace; /*fonte da letra*/
+}
+
+.cab{
+    padding: 3%; /*espaço para todos os lados*/
+}
+
+.MOTORCYCLE {
+    text-indent: 17%;
+}
+
+
+body {
+    background-color: black; /*cor do fundo*/
+    font-family: 'Courier New', Courier, monospace; /*fonte da letra*/
+    color: aliceblue;
+}
+
+.cab{
+    padding: 3%; /*espaço para todos os lados*/
+}
+
+.Nm {
+    padding-left: 4%;
+    padding-top: 1%;
+}
+
+.search-box-input {
+    outline: 0;
+    font-size: 1.2em;
+    color: #000000;
+    width: 150;
+    padding: 0;
+    border: rgb(4, 205, 255);
+    transition: .45s;
+}
+
+.carro {
+    padding: 2%;
+    display: flex;
+}
+
+.nc {
+    padding-left: 10%;
+}
+
+.inf {
+    padding: 2%;
+    text-shadow:rgb(4, 205, 255) 1px 0 10px; /*cor em volta da letra*/
+}
+.celular{
+    
+}
